@@ -51,7 +51,7 @@
 
 ### 方式 A：免安装双击直接运行（最推荐，适合分发与日常使用）
 我们已经为您准备好了高度自包含、零依赖、无黑屏终端干扰的 Windows 独立 `.exe` 可执行程序。
-1. 前往项目的 `dist` 目录或 [Releases](https://github.com/your_username/SuperNotebook/releases) 页面下载 **`main.exe`**。
+1. 前往项目的 `dist` 目录或 [Releases](https://github.com/wxw2233/超级记事本/releases) 页面下载 **`main.exe`**。
 2. 建议在您的电脑上新建一个文件夹（例如命名为 `我的超级记事本`），将 `main.exe` 放入其中。
 3. 直接双击运行它！
 
@@ -60,8 +60,8 @@
 ### 方式 B：从源码调试运行
 1. **环境克隆**：
    ```bash
-   git clone https://github.com/your_username/SuperNotebook.git
-   cd SuperNotebook
+   git clone https://github.com/wxw2233/超级记事本.git
+   cd 超级记事本
    ```
 2. **安装依赖**：
    ```bash

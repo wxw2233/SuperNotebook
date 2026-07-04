@@ -1,0 +1,21 @@
+# ⚖️ 开源许可证与商用限制声明
+
+本项目采用 **MIT 开源许可证** 作为基础授权，允许所有人自由地学习、修改、分发及二次开发。
+
+## ⚠️ 核心限制（严禁商用贩卖）
+
+**但是，本项目特此追加以下「非商用限制条款」：**
+
+1. **禁止直接售卖**：任何个人或机构**不得**将本项目的源码、修改后的源码、或者打包生成的 `.exe` 可执行程序（包括 `main.exe`）用于任何形式的直接商业售卖、收费下载、或以此谋取商业利益。
+2. **禁止打包转售**：不得将本项目作为其他收费软件/服务的捆绑插件或收费组件进行销售。
+3. **允许免费分享**：在保持完全免费、开源、且保留原作者署名（署名：吴迪胡桃大王 / Biu~happy~~）的前提下，您可以将本项目自由分享给他人使用。
+
+---
+
+# ⚖️ Open Source License & Non-Commercial Restriction
+
+This project is licensed under the **MIT License** with the following **strict non-commercial restrictions**:
+
+1. **No Commercial Sale**: No individual or organization **is allowed** to sell the source code, modified source code, or the compiled executable (`main.exe`) of this project for direct commercial gain, paid downloads, or any form of commercial profit.
+2. **No Paid Bundling**: It is strictly forbidden to bundle this project as a paid component or plug-in within other commercial/paid software or services.
+3. **Free Distribution Allowed**: You are completely free to share and distribute this project, provided it remains **100% free, open-source, and carries the original author attribution** (Author: 吴迪胡桃大王 / Biu~happy~~).

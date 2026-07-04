@@ -1,0 +1,13 @@
+# PyInstaller build cache directories
+build/
+dist/
+__pycache__/
+*.spec
+
+# Local private notes storage (Do not push your private passwords and links!)
+data/
+notes/
+
+# OS-specific metadata files
+.DS_Store
+Thumbs.db
